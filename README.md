@@ -1,6 +1,5 @@
-> "Un buen sistema operativo no se improvisa; se diseña con propósito." — Andrew S. Tanenbaum  
 
-# 👋 ¡Hola! Soy Daniel Gutierrez  
+# ¡Hola! Soy Daniel Gutierrez  
 
 🎓 **Estudiante de Ingeniería Informática**  
 💻 **Apasionado por la programación, los sistemas y la ingeniería de software**
@@ -8,7 +7,7 @@
 ---
 
 ### 🧭 Sobre mí
-Soy estudiante de tercer año de Ingeniería Informática, enfocado en el desarrollo de software, la arquitectura de sistemas y los sistemas operativos.  
+Soy estudiante de Ingeniería Informática, enfocado en el desarrollo de software
 Busco consolidar mi perfil como desarrollador backend y full stack, aplicando buenas prácticas de ingeniería y diseño de software.
 
 ---
