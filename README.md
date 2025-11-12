@@ -1,22 +1,21 @@
 # 👋 ¡Hola! Soy Daniel Gutierrez  
 
-🎓 **Estudiante de Ingeniería Informática** | 💻 **Desarrollador en formación**
+🎓 **Estudiante de Ingeniería Informática**
 
 ---
 
 ### 🚀 Sobre mí
-Soy estudiante de tercer año de Ingeniería Informática, apasionado por la programación, los sistemas operativos y el desarrollo de software.  
+Soy estudiante de Ingeniería Informática, apasionado por la programación y el desarrollo de software.  
 Me encanta aprender nuevas tecnologías, trabajar en proyectos que resuelvan problemas reales y compartir conocimiento con otros.
 
 ---
 
 ### 🧠 Intereses y especialización
-- 🐍 **Python**, ☕ **Java**, ⚙️ **C#**
+- 🐍 **Python**, ☕ **Java**
 - 🌐 **Desarrollo Web Full Stack:** React / Next.js + Node.js / Express  
-- 🗄️ **Bases de datos:** SQL Server, PostgreSQL, MongoDB  
+- 🗄️ **Bases de datos:** SQL Server, MongoDB  
 - 🧱 **Arquitectura y buenas prácticas:** MVC, POO, SOLID, Clean Code  
-- 🐧 **Linux**, **Docker**, **Kubernetes**
-- ⚡ **Sistemas Operativos** y **Arquitectura de Computadoras**
+- 🐧 **Linux**, **Docker**
 
 ---
 
