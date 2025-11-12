@@ -60,5 +60,5 @@ Me encanta aprender nuevas tecnologías, trabajar en proyectos que resuelvan pro
 
 ---
 
-> _"El buen diseño de software no se trata de hacer que algo funcione, sino de hacer que sea simple, claro y mantenible."
+> "El buen diseño de software no se trata de hacer que algo funcione, sino de hacer que sea simple, claro y mantenible."
 — Andrew S. Tanenbaum
