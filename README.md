@@ -60,6 +60,5 @@ Me encanta aprender nuevas tecnologías, trabajar en proyectos que resuelvan pro
 
 ---
 
-> _"El mejor modo de predecir el futuro es crearlo."_ – Alan Kay
 > _"El buen diseño de software no se trata de hacer que algo funcione, sino de hacer que sea simple, claro y mantenible."
 — Andrew S. Tanenbaum
