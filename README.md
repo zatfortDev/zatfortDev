@@ -13,10 +13,7 @@ Busco consolidar mi perfil como desarrollador backend y full stack, aplicando bu
 ---
 
 ### 🔭 Actualmente trabajando en
-- 💉 **Sistema de Vacunación Municipal** – Java + SQL Server  
 - 📚 **Biblioteca Personal MERN** – React, Node.js y MongoDB  
-- 🧾 **POS de escritorio** – JavaFX + SQL Server  
-- 🧮 **Simulación Monte Carlo** – Python (Modelos y Simulación)
 
 ---
 
